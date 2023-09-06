@@ -1,5 +1,6 @@
 # Jogo-Mata-Mosquito
 
-Projeto de Calculadora usando Java Script, HTML, CSS feito no curso Desenvolvimento Web - Udemy
+Joguinho em JS onde devemos acertar o mosquito na tela. 
+Tempo. Quantidade de vidas. Níveis de dificuldade. 
 
 https://schvuchov.github.io/Jogo-Mata-Mosquito/
